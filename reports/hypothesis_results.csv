@@ -1,0 +1,5 @@
+Hypothesis,P-Value,Significance
+Province Risk Differences,1.2658574266104923e-09,Reject H₀
+Zip Code Risk Differences,0.4439998280075464,Fail to Reject H₀
+Gender Risk Differences,0.42346922108852514,Fail to Reject H₀
+Vehicle Type Differences,0.6569647496172851,Fail to Reject H₀
