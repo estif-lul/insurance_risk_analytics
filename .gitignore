@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 # Data Directory
-data/
 !data/*.dvc
+data/
 
 # Model Directory
 models/
