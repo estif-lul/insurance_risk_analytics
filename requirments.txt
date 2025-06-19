@@ -59,7 +59,6 @@ markdown-it-py==3.0.0
 matplotlib==3.10.3
 mdurl==0.1.2
 multidict==6.4.4
-networkx==3.5
 numba==0.61.2
 numpy==2.2.0
 nvidia-nccl-cu12==2.27.3
